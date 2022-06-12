@@ -15,6 +15,7 @@
     position: absolute;
     top: 4%;
     left: 3%;
+    text-align: center;
 }
 .banner-text{
     text-align: center;
@@ -85,8 +86,8 @@ nav ul li a{
     background: #290015;
     text-align: center;
     position: fixed;
-    right: 30px;
-    top: 20px;
+    top: 4%;
+    right: 3%;
     border-radius: 3px;
     z-index: 3;
     cursor: pointer;
