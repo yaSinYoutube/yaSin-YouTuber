@@ -3,7 +3,6 @@
     padding: 0;
     font-family: 'Montserrat', sans-serif;
 }
-
 #banner{
     background: linear-gradient(rgba(0,0,0.2,0.2),#290015), url(asetse/minecraft.jpg);
     background-size: cover;
@@ -45,7 +44,6 @@
     z-index: 1;
     transition: 0.4s;
 }
-
 .banner-btn a span{
     width: 0%;
     height: 100%;
@@ -113,7 +111,6 @@ nav ul li a{
     z-index: 1;
     display: inline-block;
 }
-
 .title-text h2{
     font-size: 50px;
 }
