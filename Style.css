@@ -11,10 +11,10 @@
     height: 100vh;
 }
 .logo{
-    width: 130px;
+    width: 70px;
     position: absolute;
-    top: 4%;
-    left: 3%;
+    top: 3%;
+    left: 2%;
     text-align: center;
 }
 .banner-text{
